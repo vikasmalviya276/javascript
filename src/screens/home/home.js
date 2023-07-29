@@ -1,2 +1,3 @@
 import React from 'react';
-import {View} from 'react-native';
+import {View,Text,StyleSheet} from 'react-native';
+//addedd new branch
